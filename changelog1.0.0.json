@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "changes": [
+    {
+      "type": "ADDITION",
+      "title": "First alpha",
+      "description": "This is the first alpha version of Zenith"
+    },
+    {
+      "type": "ADDITION",
+      "title": "Changelog",
+      "description": "Added a changelog to the game"
+    },
+    {
+      "type": "REMOVAL",
+      "title": "Removed old MainMenu",
+      "description": "Since the old MainMenu was outdated, it was removed, and a new one was added"
+    }
+  ]
+}
