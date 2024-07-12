@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "changes": [
+    {
+      "type": "ADDITION",
+      "title": "Reworking on mainMenu",
+      "description": "The old mainMenu was completely reworked, adding support for a changelog"
+    },
+    {
+      "type": "REMOVAL",
+      "title": "Removed an old feature",
+      "description": "This feature was not used"
+    },
+    {
+      "type": "CHANGE",
+      "title": "Changed the design",
+      "description": "The design is now more modern"
+    }
+  ]
+}
