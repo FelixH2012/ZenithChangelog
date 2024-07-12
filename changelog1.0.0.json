@@ -4,17 +4,20 @@
     {
       "type": "ADDITION",
       "title": "Added a new feature",
-      "description": "This feature is really cool"
+      "smallDescription": "This feature is really cool",
+      "extendedDescription": "This feature is really cool and you can use it to do cool things"
     },
     {
       "type": "REMOVAL",
       "title": "Removed an old feature",
-      "description": "This feature was not used"
+      "smallDescription": "This feature was not used",
+      "extendedDescription": "This feature was not used by anyone so we decided to remove it"
     },
     {
       "type": "CHANGE",
       "title": "Changed the design",
-      "description": "The design is now more modern"
+      "smallDescription": "The design is now more modern",
+      "extendedDescription": "The design is now more modern and looks better"
     }
   ]
 }
