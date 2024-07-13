@@ -1,0 +1,45 @@
+{
+  "version": "1.0.1",
+  "changes": [
+    {
+      "type": "ADDITION",
+      "title": "AccountManager",
+      "description": "First version of the AccountManager, with basic features"
+    },
+    {
+      "type": "ADDITION",
+      "title": "LookAround",
+      "description": "Added LookAround functionality in InventoryMove, gives the player the opportunity to look around while in inventory"
+    },
+    {
+      "type": "CHANGE",
+      "title": "Configs",
+      "description": "Rework of the way the config system loads visuals"
+    },
+    {
+      "type": "CHANGE",
+      "title": "Intern",
+      "description": "Improved nested classes"
+    },
+    {
+      "type": "CHANGE",
+      "title": "TimeChanger",
+      "description": "Fixed a bug where it would show the time presets even though the checkbox was disabled"
+    },
+    {
+      "type": "REMOVAL",
+      "title": "Disabler",
+      "description": "Removed disabler module, since it was useless"
+    },
+    {
+      "type": "REMOVAL",
+      "title": "AutoClicker",
+      "description": "Nobody needs an auto clicker, so we removed it"
+    },
+    {
+      "type": "REMOVAL",
+      "title": "TriggerBot",
+      "description": "TriggerBot depends on the auto clicker, so we removed it as well"
+    }
+  ]
+}
