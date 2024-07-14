@@ -1,0 +1,40 @@
+{
+  "version": "1.0.2",
+  "changes": [
+    {
+      "type": "CHANGE",
+      "title": "Changelog",
+      "description": "-Made sure that the changelog is now sorted by version\n-Added functionality for line separation in the changelog\n-Patched a bug where you could not see any new changes when there are too many"
+    },
+    {
+      "type": "CHANGE",
+      "title": "Rectangle",
+      "description": "Added support for rounded gradient rectangles, which can have up to 4 colors"
+    },
+    {
+      "type": "CHANGE",
+      "title": "ClickGUI",
+      "description": "Redesigned some parts of the clickGUI, now using the module toggled color in the background for a more colorful look"
+    },
+    {
+      "type": "CHANGE",
+      "title": "InventoryMove",
+      "description": "Fixed issue with mouse cursor visibility"
+    },
+    {
+      "type": "ADDITION",
+      "title": "TargetHUD",
+      "description": "Added \\\"3D\\\" mode to the TargetHUD"
+    },
+    {
+      "type": "ADDITION",
+      "title": "TargetESP",
+      "description": "Added \\\"SkeletalESP\\\" mode to the TargetESP (W.I.P)"
+    },
+    {
+      "type": "REMOVAL",
+      "title": "Source",
+      "description": "Removed \\\"Triangle.glsl\\\" from the source code, as it did not work as intended"
+    }
+  ]
+}
