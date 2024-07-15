@@ -1,0 +1,65 @@
+{
+  "version": "1.0.3",
+  "changes": [
+    {
+      "type": "CHANGE",
+      "title": "MainMenu",
+      "description": "Drastically improved performance by optimizing the rendering of the changelog rectangles"
+    },
+    {
+      "type": "CHANGE",
+      "title": "Inventory",
+      "description": "Fixed a bug where the rotations from the player in the inventory is not looking at the mouse as it normally does"
+    },
+    {
+      "type": "CHANGE",
+      "title": "DebugInfo",
+      "description": "Fixed a bug where even though the player pressed f3 (or the key for debug screen) it wont show the debug screen"
+    },
+    {
+      "type": "CHANGE",
+      "title": "SmoothCamera",
+      "description": "Fixed a bug that the smooth camera is not working"
+    },
+    {
+      "type": "CHANGE",
+      "title": "OutlineESP",
+      "description": "Improved OutlineESP in ChestESP"
+    },
+    {
+      "type": "CHANGE",
+      "title": "Interface",
+      "description": "Fixed Logo mode not working"
+    },
+    {
+      "type": "CHANGE",
+      "title": "Slider",
+      "description": "Fixed an bug where you would get to show values as 0.0002 because the values are not rounded"
+    },
+    {
+      "type": "CHANGE",
+      "title": "InventoryMove",
+      "description": "The user can now select between two functionalities: LookAround and FreeMove, they can also be used together, so the user can look around without being able to move, so the feature does not depend on each other"
+    },
+    {
+      "type": "ADDITION",
+      "title": "ItemPhysics",
+      "description": "Added ItemPhysics module"
+    },
+    {
+      "type": "ADDITION",
+      "title": "MinecraftModifications",
+      "description": "Added some functionalities to the MinecraftModifications module which allows you to change how the game looks like"
+    },
+    {
+      "type": "ADDITION",
+      "title": "AntiVoid",
+      "description": "Added AntiVoid Module"
+    },
+    {
+      "type": "ADDITION",
+      "title": "TargetESP",
+      "description": "Added Health and Armor indicators to the TargetESP"
+    }
+  ]
+}
